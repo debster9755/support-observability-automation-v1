@@ -4,7 +4,7 @@ A functional prototype support observability dashboard for **Pacera Technology**
 
 Provides real-time visibility across leadership and Tech & Customer Support org. Uses deterministic mock ticket data, anomaly detection rules, and Claude (Anthropic LLM) to surface prioritized recommendations.
 
-**Live on Vercel** — one-click deploy, no database required.
+**Live on Vercel:** [https://pacera-support-nexus.vercel.app](https://pacera-support-nexus.vercel.app)
 
 ---
 
